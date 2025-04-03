@@ -1,4 +1,3 @@
-```md
 🔥 Advanced Proxy Checker
 
 🚀 Advanced Proxy Checker is a high-performance tool for checking HTTP, HTTPS, SOCKS4, and SOCKS5 proxies with multi-threading support.  
@@ -101,6 +100,5 @@ You are free to use, modify, and distribute it.
 ---
 
 ⭐ If you find this tool useful, don't forget to star the repository on GitHub! ⭐  
-```
 
 ---
