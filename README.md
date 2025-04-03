@@ -88,7 +88,7 @@ The working proxies will be saved in JSON format like this:
 ---
 
 🛡️ License  
-This project is licensed under the MIT License.  
+This project is licensed under the [MIT License](LICENSE).  
 You are free to use, modify, and distribute it.  
 
 ---
