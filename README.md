@@ -95,7 +95,7 @@ You are free to use, modify, and distribute it.
 
 👤 Developer Info  
 👨‍💻 Developer: [dəˈveləpər](https://github.com/hiden_25)
-
+👨‍💻 Contribute: H2I TEAM
 📢 Telegram Channel: [H2I CODER](https://t.me/h2icoder)  
 
 ---
