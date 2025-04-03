@@ -22,17 +22,17 @@ It can automatically fetch fresh proxies from online sources or validate a given
 pkg update && pkg upgrade -y
 pkg install python -y
 pkg install git -y
-git clone https://github.com/your-username/proxy-checker.git
-cd proxy-checker
-pip install -r requirements.txt
+git clone https://github.com/ceo-developer/Proxy_checker.git
+cd Proxy_checker
+pip3 install -r requirements.txt
 ```
 
 🖥️ For Kali Linux / Ubuntu  
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/your-username/proxy-checker.git
-cd proxy-checker
+git clone https://github.com/ceo-developer/Proxy_checker.git
+cd Proxy_checker
 pip3 install -r requirements.txt
 ```
 
@@ -42,7 +42,7 @@ pip3 install -r requirements.txt
 
 Basic Usage  
 ```bash
-python proxy_checker.py
+python3 proxy_checker.py
 ```
 
 Example 1: Checking proxies from a file  
@@ -58,7 +58,7 @@ Enter Proxy List File (or type 'auto' to fetch from API): auto
 ```
 
 📂 Output Files:  
-- ✅ Working Proxies: `https_working_proxies.json`  
+- ✅ Working Proxies: `working_proxies.json`  
 - ❌ Not Working Proxies: `not_working_proxies.txt`  
 
 ---
@@ -94,8 +94,8 @@ You are free to use, modify, and distribute it.
 ---
 
 👤 Developer Info  
-👨‍💻 Developer: [@hiden_25](https://github.com/hiden_25)
-📢 Telegram Channel: [@h2icoder](https://t.me/h2icoder)  
+👨‍💻 Developer: [dəˈveləpər](https://github.com/hiden_25)
+📢 Telegram Channel: [H2I CODER](https://t.me/h2icoder)  
 
 ---
 
